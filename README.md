@@ -34,3 +34,5 @@ The US Government was able to sue Microsoft for essentially using techniques tha
 
 It is interesting that the internet is made up of processes using unique IP addresses to send packets of data through, and that packets do not all have to be sent at once but can be broken up and sent on different paths. 
 
+
+1. Main Link (What People See on 
